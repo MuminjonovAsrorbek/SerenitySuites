@@ -42,7 +42,7 @@ SerenitySuites implements a complete hotel management workflow:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MuminjonovAsrorbek/SerenitySuites.git
    cd SerenitySuites
    ```
 
